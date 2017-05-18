@@ -24,11 +24,6 @@
 			"image": "http://data.mavo.io/portfolio/images/pasted-image-1494903924970.png",
 			"name": "Web 3 Jules",
 			"@type": "Painting"
-		},
-		{
-			"image": "http://data.mavo.io/portfolio/images/web-electric3.jpg",
-			"name": "Web electric3",
-			"@type": "Painting"
 		}
 	]
 }
