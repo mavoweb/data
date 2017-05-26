@@ -2,11 +2,19 @@
 	"task": [
 		{
 			"done": false,
+			"taskTitle": "Auto und Lampen bei Siggi abholen"
+		},
+		{
+			"done": false,
 			"taskTitle": "Rechnungen Bezahlen"
 		},
 		{
 			"done": false,
 			"taskTitle": "Wäsche waschen"
+		},
+		{
+			"done": false,
+			"taskTitle": "Troi aktualisieren"
 		},
 		{
 			"done": false,
