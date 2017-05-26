@@ -1,20 +1,20 @@
 {
 	"task": [
 		{
-			"done": true,
-			"taskTitle": "Code furiously"
-		},
-		{
-			"done": true,
-			"taskTitle": "Do user study"
-		},
-		{
-			"done": true,
-			"taskTitle": "Write paper"
+			"done": false,
+			"taskTitle": "Rechnungen Bezahlen"
 		},
 		{
 			"done": false,
-			"taskTitle": "Have a life!!"
+			"taskTitle": "Wäsche waschen"
+		},
+		{
+			"done": false,
+			"taskTitle": "Landkarte kaufen"
+		},
+		{
+			"done": false,
+			"taskTitle": "Waschmaschine kaufen"
 		}
 	]
 }
