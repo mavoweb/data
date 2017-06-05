@@ -6,7 +6,10 @@
 	],
 	"painting": [
 		{
-			"name": "sdf"
+			"name": "ssdf"
+		},
+		{
+			"name": "ssdf"
 		}
 	]
 }
