@@ -21,6 +21,10 @@
 			"@type": "Painting"
 		},
 		{
+			"image": "https://cdn.rawgit.com/AlEltono/data/3cd24ec9eb5b1143de0509b74786ce850d1c3d3c/portfolio/images/brigra1gl_1920x1200.jpg",
+			"name": "Test"
+		},
+		{
 			"image": "http://data.mavo.io/portfolio/images/pasted-image-1494903924970.png",
 			"name": "Web 3 Jules",
 			"@type": "Painting"
