@@ -1,7 +1,11 @@
 {
 	"image": "images/photo.jpg",
-	"name": "City West Water",
-	"description": "<img src=\"https://www.citywestwater.com.au/img/logo/logo.svg\" alt=\"Logo\" width=\"445\" height=\"108\"><strong>Tardar Sauce</strong> (born April 4, 2012), commonly known as <strong>Grumpy Cat</strong>, is a cat Internet and media personality and actress. She is known for her permanently \"grumpy\" facial appearance, which is caused by an <a title=\"Malocclusion\" href=\"https://en.wikipedia.org/wiki/Malocclusion\" data-mce-href=\"https://en.wikipedia.org/wiki/Malocclusion\">underbite</a> and <a title=\"Dwarf cat\" href=\"https://en.wikipedia.org/wiki/Dwarf_cat\" data-mce-href=\"https://en.wikipedia.org/wiki/Dwarf_cat\">feline dwarfism</a>.",
+	"name": "Grumpy Cat",
+	"description": [
+		"<img src=\"https://www.citywestwater.com.au/images/choose_tap_image.jpg\" alt=\"cool img\" width=\"716\" height=\"230\"><br data-mce-bogus=\"1\">",
+		"<span style=\"color: rgb(74, 74, 74); font-family: Lato, Arial, sans-serif; font-size: 16px; text-align: center; background-color: rgb(255, 255, 255);\">When it comes your health, the environment and your hip pocket, we think tap water is tops.</span>",
+		"<strong>Tardar Sauce</strong> (born April 4, 2012), commonly known as <strong>Grumpy Cat</strong>, is a cat Internet and media personality and actress.\n\tShe is known for her permanently \"grumpy\" facial appearance, which is caused by an <a href=\"https://en.wikipedia.org/wiki/Malocclusion\" title=\"Malocclusion\">underbite</a> and <a href=\"https://en.wikipedia.org/wiki/Dwarf_cat\" title=\"Dwarf cat\">feline dwarfism</a>.\n"
+	],
 	"twitter": "https://twitter.com/RealGrumpyCat",
 	"facebook": "https://www.facebook.com/TheOfficialGrumpyCat",
 	"wikipedia": "https://en.wikipedia.org/wiki/Grumpy_Cat"
