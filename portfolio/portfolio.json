@@ -29,6 +29,10 @@
 			"image": "http://data.mavo.io/portfolio/images/web-electric3.jpg",
 			"name": "Web electric3",
 			"@type": "Painting"
+		},
+		{
+			"image": "http://data.mavo.io/portfolio/images/StockSnap_ZC3PTKUX35.jpg",
+			"name": "sasdsad"
 		}
 	]
 }
