@@ -1,27 +1,27 @@
 {
 	"task": [
 		{
-			"done": false,
+			"done": true,
 			"taskTitle": "Auto und Lampen bei Siggi abholen"
 		},
 		{
-			"done": false,
+			"done": true,
 			"taskTitle": "Rechnungen Bezahlen"
 		},
 		{
-			"done": false,
+			"done": true,
 			"taskTitle": "Wäsche waschen"
 		},
 		{
-			"done": false,
+			"done": true,
 			"taskTitle": "Troi aktualisieren"
 		},
 		{
-			"done": false,
+			"done": true,
 			"taskTitle": "Landkarte kaufen"
 		},
 		{
-			"done": false,
+			"done": true,
 			"taskTitle": "Waschmaschine kaufen"
 		}
 	]
