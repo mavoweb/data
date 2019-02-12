@@ -1,3 +1,7 @@
 {
-	"description": "Hallo Heute im Angebot !!!!"
+	"description": [
+		"change me!",
+		"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo magni sapiente, tempore debitis beatae culpa hallo"
+	],
+	"image": "images/willkommen.gif"
 }
