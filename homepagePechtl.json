@@ -1,4 +1,5 @@
 {
 	"description": "Willkommen im Homepage Editieren Modus",
-	"image": "images/willkommen.gif"
+	"image": "images/willkommen.gif",
+	"breadcrumb": "cool !"
 }
