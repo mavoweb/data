@@ -29,6 +29,11 @@
 			"image": "http://data.mavo.io/portfolio/images/web-electric3.jpg",
 			"name": "Web electric3",
 			"@type": "Painting"
+		},
+		{
+			"image": "http://data.mavo.io/portfolio/images/hadim.png",
+			"name": "Samir Hadim",
+			"@type": "Painting"
 		}
 	]
 }
