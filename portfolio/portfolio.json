@@ -49,6 +49,9 @@
 			"image": "http://data.mavo.io/portfolio/images/panthroma.jpg",
 			"name": "Panthroma",
 			"@type": "Painting"
+		},
+		{
+			"@type": "Painting"
 		}
 	]
 }
