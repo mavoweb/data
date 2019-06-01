@@ -1,13 +1,18 @@
 {
 	"painting": [
 		{
-			"image": "http://data.mavo.io/portfolio/images/pasted-image-1494464667397.png",
-			"name": "Carwash",
+			"image": "http://data.mavo.io/portfolio/images/1558009225_n-eszakitalia.jpg",
+			"name": "1558009225 n eszakitalia",
 			"@type": "Painting"
 		},
 		{
 			"image": "http://data.mavo.io/portfolio/images/pasted-image-1494528264937.png",
 			"name": "Muck Mouth",
+			"@type": "Painting"
+		},
+		{
+			"image": "http://data.mavo.io/portfolio/images/emannuele3.jpg",
+			"name": "Emannuele3",
 			"@type": "Painting"
 		},
 		{
@@ -21,6 +26,16 @@
 			"@type": "Painting"
 		},
 		{
+			"image": "http://data.mavo.io/portfolio/images/darling-scrap-water-splash-24.png",
+			"name": "Darling scrap water splash 24",
+			"@type": "Painting"
+		},
+		{
+			"image": "http://data.mavo.io/portfolio/images/pasted-image-1494464667397.png",
+			"name": "Carwash",
+			"@type": "Painting"
+		},
+		{
 			"image": "http://data.mavo.io/portfolio/images/pasted-image-1494903924970.png",
 			"name": "Web 3 Jules",
 			"@type": "Painting"
@@ -28,6 +43,11 @@
 		{
 			"image": "http://data.mavo.io/portfolio/images/web-electric3.jpg",
 			"name": "Web electric3",
+			"@type": "Painting"
+		},
+		{
+			"image": "http://data.mavo.io/portfolio/images/panthroma.jpg",
+			"name": "Panthroma",
 			"@type": "Painting"
 		}
 	]
