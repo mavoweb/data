@@ -1,0 +1,12 @@
+{
+	"painting": [
+		{
+			"@type": "Painting"
+		},
+		{
+			"image": "http://data.mavo.io/portfolio/images/images/Freeswerk.png",
+			"name": "Freeswerk",
+			"@type": "Painting"
+		}
+	]
+}
