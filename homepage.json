@@ -1,7 +1,7 @@
 {
-	"image": "http://data.mavo.io/images/meetapparatuur.png",
+	"image": "http://data.mavo.io/images/moduls.png",
 	"name": "Therma klosie",
-	"description": "<strong>&nbsp;JSX is an XML/HTML&nbsp;&nbsp;</strong> -like syntax used by React that extends ECMAScript so that XML/HTML-like text can co-exist with JavaScript/React code. ... Unlike the past, instead of putting JavaScript into HTML, <br />JSX allows us to put HTML into JavaScript.<br />JSX provides a concise and familiar syntax for defining a <br />tree structure with attributes that does not require learning a <br />templating language or leaving JavaScript. Both of which are can be a win when building large applications.<strong><br />&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;</strong>",
+	"description": "<strong>Veranderde text &nbsp;</strong> -.. &nbsp; &nbsp; &nbsp; &nbsp; Unlike the past, instead&nbsp; <br />JSX allows us to put HTML into JavaScript.<br />JSX provides a concise and familiar syntax for defining a <br />tree structure with attributes that does not require learning a <br />templating language or leaving JavaScript. Both of which are can be a win when building large applications.<strong><br />&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;</strong>",
 	"twitter": "https://twitter.com/RealGrumpyCat",
 	"facebook": "https://www.facebook.com/TheOfficialGrumpyCat",
 	"wikipedia": "https://en.wikipedia.org/wiki/Grumpy_Cat"
