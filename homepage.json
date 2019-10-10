@@ -1,7 +1,7 @@
 {
-	"image": "images/photo.jpg",
+	"image": "http://data.mavo.io/images/securitycam.png",
 	"name": "Grumpy Cat",
-	"description": "<strong>Tardar Sauce,</strong> commonly known as <strong>GC at -</strong> an&nbsp; Internet&nbsp; persona.",
+	"description": "Tardar Sauce, commonly known as GC at - an&nbsp; Internet&nbsp; persona.",
 	"twitter": "https://twitter.com/RealGrumpyCat",
 	"facebook": "https://www.facebook.com/TheOfficialGrumpyCat",
 	"wikipedia": "https://en.wikipedia.org/wiki/Grumpy_Cat"
