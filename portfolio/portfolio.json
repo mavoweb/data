@@ -1,13 +1,13 @@
 {
 	"painting": [
 		{
-			"image": "http://data.mavo.io/portfolio/images/pasted-image-1494464667397.png",
-			"name": "Carwash",
+			"image": "http://data.mavo.io/portfolio/images/Stefan_meme_TooOld.png",
+			"name": "Muck Mouth",
 			"@type": "Painting"
 		},
 		{
-			"image": "http://data.mavo.io/portfolio/images/pasted-image-1494528264937.png",
-			"name": "Muck Mouth",
+			"image": "http://data.mavo.io/portfolio/images/pasted-image-1494464667397.png",
+			"name": "Carwash",
 			"@type": "Painting"
 		},
 		{
