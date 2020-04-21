@@ -1,12 +1,3 @@
 {
-	"task": [
-		{
-			"done": true,
-			"taskTitle": "Landkarte kaufen"
-		},
-		{
-			"done": true,
-			"taskTitle": "Waschmaschine kaufen"
-		}
-	]
+	"task": []
 }
