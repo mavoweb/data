@@ -1,33 +1,28 @@
 {
 	"painting": [
 		{
-			"image": "http://data.mavo.io/portfolio/images/pasted-image-1494464667397.png",
-			"name": "Carwash",
+			"image": "https://cdn.jsdelivr.net/gh/absullivan/data@357c19bec11aef76cec7c2f2c5e208ae59be6307/portfolio/images/BQHErevAouO.jpg",
+			"name": "BQHErev aouO",
 			"@type": "Painting"
 		},
 		{
-			"image": "http://data.mavo.io/portfolio/images/pasted-image-1494528264937.png",
-			"name": "Muck Mouth",
+			"image": "https://cdn.jsdelivr.net/gh/absullivan/data@936ac4439828e3f0b5b73e05bbed3182014a57e1/portfolio/images/BQGF9mOApvQ.jpg",
+			"name": "BQGF9mOApvQ",
 			"@type": "Painting"
 		},
 		{
-			"image": "http://data.mavo.io/portfolio/images/pasted-image-1494528646446.png",
-			"name": "Fishwall",
+			"image": "https://cdn.jsdelivr.net/gh/absullivan/data@f7d59c831f3053155393e77e4fe5be155502a1d3/portfolio/images/BQHFoxXg8zk.jpg",
+			"name": "BQHFox xg8zk",
 			"@type": "Painting"
 		},
 		{
-			"image": "http://data.mavo.io/portfolio/images/web-coffe-marilyn.jpg",
-			"name": "Web Coffe Marilyn",
+			"image": "https://cdn.jsdelivr.net/gh/absullivan/data@8b07f684d224cfc460924a648b2ec2d35b88b5df/portfolio/images/BQHGd-GgiRR.jpg",
+			"name": "BQHGd-GgiRR",
 			"@type": "Painting"
 		},
 		{
-			"image": "http://data.mavo.io/portfolio/images/pasted-image-1494903924970.png",
-			"name": "Web 3 Jules",
-			"@type": "Painting"
-		},
-		{
-			"image": "http://data.mavo.io/portfolio/images/web-electric3.jpg",
-			"name": "Web electric3",
+			"image": "https://cdn.jsdelivr.net/gh/absullivan/data@4a21f4d9bf3b8029ed1421aa3930b1209df80bab/portfolio/images/BQE-aXXjsmz.jpg",
+			"name": "BQE-aXXjsmz",
 			"@type": "Painting"
 		}
 	]
